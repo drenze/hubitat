@@ -4,9 +4,9 @@
   "packages": [
     {
       "id": "4d4698e0-d0cf-4fd8-9edd-ba391db9a099",
-      "name": "Enable Virtual Switch",
+      "name": "Enabled Virtual Switch",
       "category": "Convenience",
-      "location": "https://raw.githubusercontent.com/drenze/hubitat-misc/main/src/apps/enable-virtual-switch/packageManifest.json",
+      "location": "https://raw.githubusercontent.com/drenze/hubitat-misc/main/src/apps/enabled-virtual-switch/packageManifest.json",
       "description": "Turn a switch on/off only when enabled"
     }
   ]
