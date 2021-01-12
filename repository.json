@@ -3,7 +3,7 @@
   "gitHubUrl": "https://github.com/drenze",
   "packages": [
     {
-      "id": "4d4698e0-d0cf-4fd8-9edd-ba391db9a099",
+      "id": "a90b4e40-f41a-461d-9879-547fd81e713e",
       "name": "Virtual Switch Enabler",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/drenze/hubitat-misc/main/src/apps/virtual-switch-enabler/packageManifest.json",
