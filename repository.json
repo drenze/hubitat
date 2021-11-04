@@ -3,13 +3,6 @@
   "gitHubUrl": "https://github.com/drenze",
   "packages": [
     {
-      "id": "a90b4e40-f41a-461d-9879-547fd81e713e",
-      "name": "Virtual Switch Enabler 1.x (Deprecated)",
-      "category": "Convenience",
-      "location": "https://raw.githubusercontent.com/drenze/hubitat-virtual-switch-enabler/main/virtual-switch-enabler/1.x/packageManifest.json",
-      "description": "Turn a switch on/off only when enabled"
-    },
-    {
       "id": "9a8e8291-44c3-4e3d-b91c-8768b4690fee",
       "name": "Virtual Switch Enabler",
       "category": "Convenience",
